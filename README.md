@@ -1,6 +1,6 @@
 # java-timeout
 
-App to test java timeout functionality
+App to test java timeout
 
 
 ## how it works
