@@ -1,8 +1,8 @@
 package br.com.fahsoder.javatimeout.service;
 
+import org.springframework.http.client.SimpleClientHttpRequestFactory;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
-import org.springframework.http.client.SimpleClientHttpRequestFactory;
 
 
 @Service
